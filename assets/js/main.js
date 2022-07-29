@@ -70,7 +70,7 @@ function comprobarNumPares(n) {
     return false;
 }
 
-/* NÚMEROS PARES ASCENDENTE */
+/* MUESTRA UN RANGO DE NÚMEROS */
 function comprobarNumeros() {
     var men = "";
     // Si num1 es menor que num2
